@@ -6,6 +6,10 @@
 
 }
 
+html{ 
+   scroll-behavior: smooth; 
+}
+
 body {
     font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
     background-color:  #f0f2f5;
